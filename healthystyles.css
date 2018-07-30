@@ -1,0 +1,178 @@
+/* #together {
+  height: 60px;
+  width: 60px;
+  position: absolute;
+  top: 8px;
+  right: 740px;
+}
+
+/* #together {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  top: -60px;
+  right: 150px;
+} */
+
+/* img.resize {
+  max-width:7%;
+  max-height:7%;
+} */
+
+/* img.reshape {
+  max-width:40%;
+  max-height:40%;
+} */
+
+/* #details {
+  left: 500px;
+  top: -480px;
+  position: relative;
+  margin-right: 600px;
+}
+
+h1 {
+  font-family:'Lobster', cursive;
+}
+
+#girl {
+  left: 500px;
+  top: -500px;
+  position: relative;
+  margin-right: 600px;
+}
+
+#details2 {
+  top: -460px;
+  right: 370px;
+  position: relative;
+  margin-left: 400px;
+}
+
+#myplate {
+  left: 925px;
+  top: 665px;
+  position: absolute;
+  margin-right: 600px;
+}
+
+#chart {
+  top: -440px;
+  position: relative;
+}
+
+#options {
+  top: 1675px;
+  right: 185px;
+  position: absolute;
+}
+
+body {
+  background-color: #ffffe5;
+}
+
+#button {
+  left: 330px;
+  top: -12px;
+  position: relative;
+}
+
+#button1 {
+  left: 790px;
+  top: -34px;
+  position: relative;
+}
+
+#health {
+  left: 10px;
+  position: relative;
+} */
+
+
+/* #together {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  top: -60px;
+  right: 150px;
+} */
+
+/* img.resize {
+  max-width:7%;
+  max-height:7%;
+} */
+
+/* img.reshape {
+  max-width:40%;
+  max-height:40%;
+} */
+
+/* #details {
+  left: 500px;
+  top: -480px;
+  position: relative;
+  margin-right: 600px;
+}
+
+h1 {
+  font-family:'Lobster', cursive;
+}
+
+#girl {
+  left: 500px;
+  top: -500px;
+  position: relative;
+  margin-right: 600px;
+}
+
+#details2 {
+  top: -460px;
+  right: 370px;
+  position: relative;
+  margin-left: 400px;
+}
+
+#myplate {
+  left: 900px;
+  top: -610px;
+  position: absolute;
+  margin-right: 600px;
+}
+
+#chart {
+  top: -610px;
+  position:absolute;
+}
+
+#options {
+  top: -570px;
+  position: absolute;
+}
+
+body {
+  background-color: #ffffe5;
+}
+
+#button {
+  left: 330px;
+  top: -550px;
+  position: relative;
+}
+
+#button1 {
+  left: 800px;
+  top: -570px;
+  position: relative;
+}
+
+#health {
+  left: 10px;
+  position: relative;
+} */ */
+#button {
+float: left;
+}
+
+#button1 {
+float: right;
+}
